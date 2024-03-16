@@ -1,0 +1,7 @@
+package-lock.json
+
+.env
+
+.qdrant-initialized
+
+node_modules
