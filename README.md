@@ -10,7 +10,6 @@ This GraphQL API provides functionalities to manage books and authors in a libra
 - [Queries and Mutations](#queries-and-mutations)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
